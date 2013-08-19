@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">HowdyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_howdy">Howdy</string>
+    <string name="title_activity_buddy_list">BuddyList</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_check_in">CheckIn</string>
+
+</resources>
